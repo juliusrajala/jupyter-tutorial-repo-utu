@@ -4,13 +4,13 @@ This is a wrap up of files required for jupyter/python tuturial in UTU course of
 
 ## Installing
 
-Dependencies are controlled through [Pipenv](https://github.com/pypa/pipenv).
+The setup relies on python 3.7. Dependencies are controlled through [Pipenv](https://github.com/pypa/pipenv).
 
-After cloning the repository, simply run `$ pipenv install` to get started.
+After cloning the repository and installing pipenv, simply run `$ pipenv install` to get started.
 
 ## Running the notebook
 
-A pipenv script starts the notebook in a virtual environment controlled by pipenv
+A pipenv script starts the notebook in a virtual environment controlled by pipenv.
 
 ```
 $ pipenv run notebook
