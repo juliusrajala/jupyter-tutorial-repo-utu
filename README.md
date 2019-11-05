@@ -22,4 +22,6 @@ For now, adding dependencies should be done through `pipenv`. Each dependency sh
 
 ### License
 
-GPL, Julius Rajala 2019
+Tutorial and related data, University of Turku
+
+Repository setup: GPL, Julius Rajala 2019
