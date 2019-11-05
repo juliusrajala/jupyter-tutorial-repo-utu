@@ -11,5 +11,8 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 
+[scripts]
+notebook = "jupyter notebook"
+
 [requires]
 python_version = "3.7"
