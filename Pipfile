@@ -10,6 +10,10 @@ jupyter = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+seaborn = "*"
+sklearn = "*"
+xlrd = "*"
+functools = "*"
 
 [scripts]
 notebook = "jupyter notebook"
